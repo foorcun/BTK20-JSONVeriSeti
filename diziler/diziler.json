@@ -1,12 +1,12 @@
 [
     {
         "diziDocumentReference" : "Attack on Titan-doc",
-        "diziId" : "",
+        "diziId" : null,
         "diziName" : "Attack on Titan"
     },
     {
         "diziDocumentReference" : "Breaking Bad-doc",
-        "diziId" : "",
+        "diziId" : null,
         "diziName" : "Breaking Bad",
         "sezonlar":[
             {
