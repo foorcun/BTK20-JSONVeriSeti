@@ -1,0 +1,26 @@
+[
+    {
+        "diziDocumentReference" : "Attack on Titan-doc",
+        "diziId" : "",
+        "diziName" : "Attack on Titan"
+    },
+    {
+        "diziDocumentReference" : "Breaking Bad-doc",
+        "diziId" : "",
+        "diziName" : "Breaking Bad",
+        "sezonlar":[
+            {
+                "sezonDocumentReference": "sezon1",
+                "sezonId":"1",
+                "sezonName":"1. Sezon"
+
+            },
+            {
+                "sezonDocumentReference": "sezon2",
+                "sezonId":"2",
+                "sezonName":"2. Sezon"
+
+            }
+        ]
+    }
+]
